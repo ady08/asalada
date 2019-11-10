@@ -1,7 +1,7 @@
 #!/bin/env python3
 
-import pygame
-from pygame.locals import *
+import gamepy
+from gamepy.locals import *
 
 BOARDWIDTH = 3  # number of columns in the board
 BOARDHEIGHT = 3 # number of rows in the board
