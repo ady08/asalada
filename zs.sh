@@ -22,7 +22,6 @@ echo  "|                                                           |" | lolcat
 echo  "|              Root®Autor      : ARMANDO SIBURIAN           |" | lolcat
 echo  "|              Youtube         : ARMANDO SIBURIAN           |" | lolcat
 echo  "|              Facebook        : Armando V Gaming           |" | lolcat
-echo  "|              Thanks to       : Nicoleus Sitorus           |" | lolcat
 echo  "|              Thanks to       : SAMOSIR CYBER TEAM         |" | lolcat
 echo  "|___________________________________________________________|" | lolcat
 date | lolcat
@@ -266,10 +265,10 @@ echo $cy"Thanks For Using This Tools"
 sleep 2
 echo $i"If u find the bug please contact to me"
 sleep 2
-echo $ku"Youtube :"$i" Zacky Saksakame"
-echo $ku"Facebook :"$i" Zheck Savalas"
-echo $ku"Instagram :"$i" @saksakame1807"
+echo $ku"Youtube :"$i" Ady sitorus ady"
+echo $ku"Facebook :"$i" Nicoleus sitorus"
+echo $ku"Instagram :"$i" @nicoleus_sitorus"
 sleep 2
-echo $pur"STAY THE CRIME MY BOSS, SEE U !"
+echo $pur"HORAS..STAY THE CRIME MY BOSS, BYE BYE !"
 exit
 fi
