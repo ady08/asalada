@@ -24,12 +24,12 @@ https://www.facebook.com/photo.php?fbid=358884958370246&set=a.116005865991491&ty
 </p>
 <p align="center">
   <a href="https://youtube.com/ady sitorus ady">
-    <img src="https://www.youtube.com/channel/UCKtXeDDrNvWdw7dJTPjQcOA/youtube-xxl.png" width="40" height="40">
+    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
   <a href="https://github.com/nicoleus">
-    <img src="https://github.com/ady08/github-9-xxl.png" width="40" height="40">
+    <img src="https://www.iconsdb.com/icons/preview/black/github-9-xxl.png" width="40" height="40">
   </a>
   <a href="https://instagram.com/nicoleus_sitorus">
-    <img src="https://www.instagram.com/nicoleus_sitorus/instagram-4-xxl.png" width="40" height="40">
+    <img src="https://www.iconsdb.com/icons/preview/black/instagram-4-xxl.png" width="40" height="40">
   </a>
 </p>
