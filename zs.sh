@@ -17,7 +17,7 @@ clear
 # [SUBSCRIBE] ady sitorus ady
 figlet -f standard FB Tools | lolcat
 echo
-echo  "              ||>>>=== HORAS HITA SUDE!!! ====<<<<||" | lolcat                  
+echo  "              ||>>>=== HORAS HITA SUDE!!! ====<<<<|               " | lolcat                  
 echo  " ____________________-=[Private Tools Ku Lae]=-____________________" | lolcat
 echo  "|                                                                |" | lolcat
 echo  "|              Root®Autor      : ARMANDO SIBURIAN                |" | lolcat
