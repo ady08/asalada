@@ -13,26 +13,25 @@ python2 svls.py
 echo
 clear
 # yang merecode Anak Haram Moga-moga Tangan lu Korengan
-# recode recode tai anjing  babi modal dong
-# [SUBSCRIBE] ady sitorus ady
+# recode recode tai anjing modal dong
+# [SUBSCRIBE] Zacky Saksakame
 figlet -f standard FB Tools | lolcat
 echo
 echo  " ____________________-=[Private Tools]=-____________________" | lolcat
 echo  "|                                                           |" | lolcat
 echo  "|              Root®Autor      : ARMANDO SIBURIAN           |" | lolcat
-echo  "|              Youtube         : ARMANDO SIBURIAN           |" | lolcat
-echo  "|              Facebook        : Armando V Gaming           |" | lolcat
+echo  "|              Facebook        : Armando V Siburian         |" | lolcat
 echo  "|              Thanks to       : SAMOSIR CYBER TEAM         |" | lolcat
 echo  "|___________________________________________________________|" | lolcat
 date | lolcat
 echo
 echo $i"===================================================="
-echo $i"               >>>=== HORAS HITA SUDE ===<<<" $i"|"$me" @"$i" |"
+echo $i"|"$me" @"$i" |"$me" >>>===HORAS HITA SUDE===<<<" $i"|"$me" @"$i" |"
+echo $i"===================================================="
 echo $i"|"$me" @"$i" |"$me" WARNING!!! SEBELUM MENGGUNAKAN TOOLS INI" $i"|"$me" @"$i" |"
 echo $i"|"$me" @"$i" |"$me" \-SEBAIKNYA INSTALL DULU BAHAN-BAHANYA-/" $i"|"$me" @"$i" |"
 echo $i"===================================================="
-echo $i"|"$me" 0"$i" |"$pu"----------》!!!INSTALL BAHAN TOLOL!!《-----"$i"|"$me" 0"$i" |"
-echo $i"===================================================="
+echo $i"|"$me" 0"$i" |"$pu"----------》!!!INSTALL BAHAN!!!《---------"$i"|"$me" 0"$i" |"
 echo $i"===================================================="
 echo $i"|"$me" 1"$i" |"$pu" BRUTEFORCE FB PHP"
 echo $i"|"$me" 2"$i" |"$pu" BRUTEFORCE FB v.1"
@@ -266,9 +265,9 @@ sleep 2
 echo $i"If u find the bug please contact to me"
 sleep 2
 echo $ku"Youtube :"$i" Ady sitorus ady"
-echo $ku"Facebook :"$i" Nicoleus sitorus"
+echo $ku"Facebook :"$i" Nicoleus Sitorus"
 echo $ku"Instagram :"$i" @nicoleus_sitorus"
 sleep 2
-echo $pur"HORAS..STAY THE CRIME MY BOSS, BYE BYE !"
+echo $pur"HORAS...STAY THE CRIME MY BOSS, SEE U !"
 exit
 fi
