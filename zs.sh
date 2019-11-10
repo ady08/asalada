@@ -17,17 +17,15 @@ clear
 # [SUBSCRIBE] ady sitorus ady
 figlet -f standard FB Tools | lolcat
 echo
-echo  "              ||>>>=== HORAS HITA SUDE!!! ====<<<<|               " | lolcat                  
-echo  " ____________________-=[Private Tools Ku Lae]=-____________________" | lolcat
-echo  "|                                                                |" | lolcat
-echo  "|              Root®Autor      : ARMANDO SIBURIAN                |" | lolcat
-echo  "|              Youtube         : ARMANDO SIBURIAN                |" | lolcat
-echo  "|              Instagram       : @nicoleus_sitorus               |" | lolcat
-echo  "|              Facebook        : Armando V Gaming                |" | lolcat
-echo  "|              Facebook        : Nicoleus Sitorus                |" | lolcat
-echo  "|              Thanks to       : Nicoleus Sitorus                |" | lolcat
-echo  "|              Thanks to       : SAMOSIR CYBER TEAM              |" | lolcat
-echo  "|________________________________________________________________|" | lolcat
+echo  " ____________________-=[Private Tools]=-____________________" | lolcat
+echo  "|                                                           |" | lolcat
+echo  "|              Root®Autor      : ARMANDO SIBURIAN           |" | lolcat
+echo  "|              Youtube         : ARMANDO SIBURIAN           |" | lolcat
+echo  "|              Facebook        : Armando V Gaming           |" | lolcat
+echo  "|              Facebook        : Nicoleus Sitorus           |" | lolcat
+echo  "|              Thanks to       : Nicoleus Sitorus           |" | lolcat
+echo  "|              Thanks to       : SAMOSIR CYBER TEAM         |" | lolcat
+echo  "|___________________________________________________________|" | lolcat
 date | lolcat
 echo
 echo $i"===================================================="
