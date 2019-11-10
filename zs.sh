@@ -14,19 +14,19 @@ echo
 clear
 # yang merecode Anak Haram Moga-moga Tangan lu Korengan
 # recode recode tai anjing modal dong
-# [SUBSCRIBE] Zacky Saksakame
+# [SUBSCRIBE] ady sitorus ady
 figlet -f standard FB Tools | lolcat
 echo
 echo  " ____________________-=[Private Tools]=-____________________" | lolcat
 echo  "|                                                           |" | lolcat
 echo  "|              Root®Autor      : ARMANDO SIBURIAN           |" | lolcat
-echo  "|              Facebook        : Armando V Siburian         |" | lolcat
+echo  "|              Youtube         : Armando Siburian           |" | lolcat
 echo  "|              Thanks to       : SAMOSIR CYBER TEAM         |" | lolcat
 echo  "|___________________________________________________________|" | lolcat
 date | lolcat
 echo
 echo $i"===================================================="
-echo $i"|"$me" @"$i" |"$me" >>>===HORAS HITA SUDE===<<<" $i"|"$me" @"$i" |"
+echo $i"|"$me" @"$i" |"$me" >>>===HORAS HITA SUDE===<<<"              $i"|"$me" @"$i" |"
 echo $i"===================================================="
 echo $i"|"$me" @"$i" |"$me" WARNING!!! SEBELUM MENGGUNAKAN TOOLS INI" $i"|"$me" @"$i" |"
 echo $i"|"$me" @"$i" |"$me" \-SEBAIKNYA INSTALL DULU BAHAN-BAHANYA-/" $i"|"$me" @"$i" |"
@@ -264,10 +264,10 @@ echo $cy"Thanks For Using This Tools"
 sleep 2
 echo $i"If u find the bug please contact to me"
 sleep 2
-echo $ku"Youtube :"$i" Ady sitorus ady"
+echo $ku"Youtube :"$i" ady sitorus"
 echo $ku"Facebook :"$i" Nicoleus Sitorus"
-echo $ku"Instagram :"$i" @nicoleus_sitorus"
+echo $ku"Instagram :"$i" @nicoleus_siorus"
 sleep 2
-echo $pur"HORAS...STAY THE CRIME MY BOSS, SEE U !"
+echo $pur"HORAS.. SAMPAI JUMPAI LAE KU!! !"
 exit
 fi
