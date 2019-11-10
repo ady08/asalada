@@ -22,7 +22,6 @@ echo  "|                                                           |" | lolcat
 echo  "|              Root®Autor      : ARMANDO SIBURIAN           |" | lolcat
 echo  "|              Youtube         : ARMANDO SIBURIAN           |" | lolcat
 echo  "|              Facebook        : Armando V Gaming           |" | lolcat
-echo  "|              Facebook        : Nicoleus Sitorus           |" | lolcat
 echo  "|              Thanks to       : Nicoleus Sitorus           |" | lolcat
 echo  "|              Thanks to       : SAMOSIR CYBER TEAM         |" | lolcat
 echo  "|___________________________________________________________|" | lolcat
