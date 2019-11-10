@@ -3,12 +3,24 @@
 
 # jangan di Recode ya Bangsat, Capek Membuat
 
+pkg install update && install upgrade
+
+pkg install pyhton2
+
+pkg install ruby
+
+gem install lolcat
+
+pkg install figlet
+
+apt install git
 
 git clone https://github.com/ady08/asalada
 
 cd asalada
 
-python2 game.py
+sh zs.sh
+
 
 
 
